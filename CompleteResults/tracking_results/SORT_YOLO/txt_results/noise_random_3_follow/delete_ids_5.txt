@@ -1,0 +1,62 @@
+seq: 0 false positive: 6 false negative: 11
+seq: 1 false positive: 0 false negative: 0
+seq: 2 false positive: 0 false negative: 0
+seq: 3 false positive: 0 false negative: 2
+seq: 4 false positive: 0 false negative: 2
+seq: 5 false positive: 0 false negative: 2
+seq: 6 false positive: 1 false negative: 1
+seq: 7 false positive: 2 false negative: 6
+seq: 8 false positive: 2 false negative: 0
+seq: 9 false positive: 0 false negative: 0
+seq: 10 false positive: 0 false negative: 8
+seq: 11 false positive: 1 false negative: 18
+seq: 12 false positive: 2 false negative: 20
+seq: 13 false positive: 2 false negative: 2
+seq: 14 false positive: 5 false negative: 19
+seq: 15 false positive: 0 false negative: 2
+seq: 16 false positive: 0 false negative: 6
+seq: 17 false positive: 0 false negative: 4
+seq: 18 false positive: 0 false negative: 10
+seq: 19 false positive: 0 false negative: 20
+seq: 20 false positive: 0 false negative: 3
+seq: 21 false positive: 1 false negative: 3
+seq: 22 false positive: 0 false negative: 17
+seq: 23 false positive: 0 false negative: 4
+seq: 24 false positive: 0 false negative: 3
+seq: 25 false positive: 0 false negative: 4
+seq: 26 false positive: 0 false negative: 0
+seq: 27 false positive: 0 false negative: 2
+seq: 28 false positive: 0 false negative: 2
+seq: 0 ids: 0
+seq: 1 ids: 0
+seq: 2 ids: 0
+seq: 3 ids: 0
+seq: 4 ids: 0
+seq: 5 ids: 0
+seq: 6 ids: 0
+seq: 7 ids: 0
+seq: 8 ids: 0
+seq: 9 ids: 0
+seq: 10 f£º1 g:[35, 10, 10, 10, 10, 10, 10]
+seq: 10 ids: 1
+seq: 11 ids: 0
+seq: 12 f£º4 g:[190, 190, 190, 190, 193, 190, 190, 190]
+seq: 12 f£º5 g:[190, 190, 190, 190, 193, 190, 190, 190]
+seq: 12 f£º1 g:[190, 193, 193, 193, 193, 193]
+seq: 12 ids: 3
+seq: 13 ids: 0
+seq: 14 ids: 0
+seq: 15 ids: 0
+seq: 16 ids: 0
+seq: 17 ids: 0
+seq: 18 ids: 0
+seq: 19 ids: 0
+seq: 20 ids: 0
+seq: 21 ids: 0
+seq: 22 ids: 0
+seq: 23 ids: 0
+seq: 24 ids: 0
+seq: 25 ids: 0
+seq: 26 ids: 0
+seq: 27 ids: 0
+seq: 28 ids: 0

@@ -1,0 +1,113 @@
+seq: 0 false positive: 40 false negative: 176
+seq: 1 false positive: 1 false negative: 21
+seq: 2 false positive: 9 false negative: 60
+seq: 3 false positive: 0 false negative: 22
+seq: 4 false positive: 3 false negative: 11
+seq: 5 false positive: 7 false negative: 51
+seq: 6 false positive: 2 false negative: 25
+seq: 7 false positive: 7 false negative: 73
+seq: 8 false positive: 16 false negative: 77
+seq: 9 false positive: 7 false negative: 45
+seq: 10 false positive: 14 false negative: 114
+seq: 11 false positive: 30 false negative: 176
+seq: 12 false positive: 33 false negative: 179
+seq: 13 false positive: 12 false negative: 57
+seq: 14 false positive: 46 false negative: 329
+seq: 15 false positive: 18 false negative: 73
+seq: 16 false positive: 18 false negative: 70
+seq: 17 false positive: 5 false negative: 43
+seq: 18 false positive: 11 false negative: 30
+seq: 19 false positive: 5 false negative: 49
+seq: 20 false positive: 6 false negative: 10
+seq: 21 false positive: 3 false negative: 22
+seq: 22 false positive: 16 false negative: 40
+seq: 23 false positive: 5 false negative: 33
+seq: 24 false positive: 9 false negative: 37
+seq: 25 false positive: 10 false negative: 24
+seq: 26 false positive: 1 false negative: 2
+seq: 27 false positive: 1 false negative: 18
+seq: 28 false positive: 7 false negative: 20
+seq: 0 f£º8 g:[-1, 31, 31, 31, 31, 31, 31, 31, 36, 36]
+seq: 0 f£º6 g:[-1, 36, 36, 36, -1, 31, 36, 36]
+seq: 0 f£º8 g:[-1, 96, 96, 96, 96, 96, 96, 96, 103, 103, -1, 103]
+seq: 0 f£º1 g:[121, 117, 117, 117]
+seq: 0 f£º4 g:[-1, 136, 136, 136, 144, 144, 144, -1, 144, 144, 144, 144, 144, 144, -1, 144, 144, 144, 144, 144, 144, 144, 144, 144, 144, 144, 144, 144]
+seq: 0 f£º2 g:[-1, 144, 136, 136, 136, 136, 136, 136, 136]
+seq: 0 f£º2 g:[147, 147, 150]
+seq: 0 f£º2 g:[-1, 155, 146, 146, 146]
+seq: 0 f£º4 g:[159, -1, -1, 165, 159]
+seq: 0 f£º1 g:[167, 153, 153, 153, 153, 153, 153, 153, 153, 153]
+seq: 0 f£º8 g:[156, 156, 156, 156, 156, 156, 156, 156, 177, 177, 177]
+seq: 0 ids: 11
+seq: 1 f£º1 g:[2, 5, 5, -1, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+seq: 1 f£º1 g:[1, 4, 6, -1, -1, -1, -1]
+seq: 1 f£º2 g:[1, 4, 6, -1, -1, -1, -1]
+seq: 1 ids: 3
+seq: 2 f£º1 g:[2, 6, 8, -1]
+seq: 2 f£º2 g:[2, 6, 8, -1]
+seq: 2 f£º1 g:[1, 7, 7]
+seq: 2 ids: 3
+seq: 3 ids: 0
+seq: 4 f£º1 g:[1, 3]
+seq: 4 ids: 1
+seq: 5 f£º1 g:[1, 3, 3, -1, 3, 3, 3]
+seq: 5 f£º4 g:[59, 59, 59, 59, 79]
+seq: 5 ids: 2
+seq: 6 ids: 0
+seq: 7 ids: 0
+seq: 8 f£º5 g:[-1, 28, 28, 28, 28, 35, 28, 28, 37, -1, -1]
+seq: 8 f£º6 g:[-1, 28, 28, 28, 28, 35, 28, 28, 37, -1, -1]
+seq: 8 f£º8 g:[-1, 28, 28, 28, 28, 35, 28, 28, 37, -1, -1]
+seq: 8 f£º4 g:[-1, -1, 81, 81, 84, 81, 81, 81, 84, 84, 84, 84, 84, 84]
+seq: 8 f£º5 g:[-1, -1, 81, 81, 84, 81, 81, 81, 84, 84, 84, 84, 84, 84]
+seq: 8 f£º8 g:[-1, -1, 81, 81, 84, 81, 81, 81, 84, 84, 84, 84, 84, 84]
+seq: 8 f£º2 g:[-1, 84, 81, 84, 84, 84, 81, 81, 81]
+seq: 8 f£º3 g:[-1, 84, 81, 84, 84, 84, 81, 81, 81]
+seq: 8 f£º6 g:[-1, 84, 81, 84, 84, 84, 81, 81, 81]
+seq: 8 ids: 9
+seq: 9 f£º4 g:[-1, 2, 2, 2, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+seq: 9 f£º3 g:[-1, 30, 30, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31]
+seq: 9 ids: 2
+seq: 10 ids: 0
+seq: 11 f£º4 g:[-1, -1, -1, 28, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1]
+seq: 11 ids: 1
+seq: 12 f£º7 g:[-1, -1, 44, 44, 44, 44, 44, 37, 37, 37]
+seq: 12 f£º7 g:[-1, 112, 112, 112, 112, 112, 112, 114]
+seq: 12 f£º2 g:[-1, 129, 130, 130]
+seq: 12 f£º8 g:[-1, -1, 147, 147, 147, 147, 147, 147, 148]
+seq: 12 f£º7 g:[-1, -1, 148, 148, 148, 148, 148, 147]
+seq: 12 f£º4 g:[-1, 156, 156, 156, 157, 157, 157, 157, 157, 157]
+seq: 12 ids: 6
+seq: 13 f£º49 g:[-1, 22, 22, 22, 22, 22, 22, -1, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, -1, -1, 57, 57, 57, 57, -1, -1, 60, 60, 60, 60, 60, 60, 60, 60, 60, 57, 57, 57, 57, -1]
+seq: 13 f£º4 g:[-1, 31, 31, 31, 33]
+seq: 13 f£º3 g:[-1, 31, 31, 33]
+seq: 13 f£º1 g:[60, 57, 57, 57, 57, 57, 57, 57, 57, 57]
+seq: 13 ids: 4
+seq: 14 f£º2 g:[-1, 23, 22, -1, -1, -1, -1, -1]
+seq: 14 f£º2 g:[-1, 33, 54, 54, -1, 60, 62, 64, 67, -1, 72, -1, -1]
+seq: 14 f£º6 g:[-1, 33, 54, 54, -1, 60, 62, 64, 67, -1, 72, -1, -1]
+seq: 14 f£º7 g:[-1, 33, 54, 54, -1, 60, 62, 64, 67, -1, 72, -1, -1]
+seq: 14 f£º8 g:[-1, 33, 54, 54, -1, 60, 62, 64, 67, -1, 72, -1, -1]
+seq: 14 f£º8 g:[-1, 63, 63, 63, 63, 63, 63, 63, 77, 77, 77]
+seq: 14 f£º2 g:[67, 67, 72, -1, -1, -1]
+seq: 14 f£º8 g:[-1, -1, 171, 171, 171, 171, 171, 171, 177, 177, -1]
+seq: 14 f£º1 g:[243, 245, 245, 245, 245]
+seq: 14 ids: 9
+seq: 15 ids: 0
+seq: 16 f£º7 g:[-1, -1, 22, 22, 22, 22, 22, 18, 18, 18, 18]
+seq: 16 ids: 1
+seq: 17 ids: 0
+seq: 18 f£º4 g:[9, 9, 9, 9, 6]
+seq: 18 ids: 1
+seq: 19 ids: 0
+seq: 20 ids: 0
+seq: 21 ids: 0
+seq: 22 f£º7 g:[-1, 16, 16, 16, 16, 16, 16, 17]
+seq: 22 ids: 1
+seq: 23 ids: 0
+seq: 24 ids: 0
+seq: 25 ids: 0
+seq: 26 ids: 0
+seq: 27 ids: 0
+seq: 28 f£º16 g:[-1, -1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 3, 3, 3]
+seq: 28 ids: 1

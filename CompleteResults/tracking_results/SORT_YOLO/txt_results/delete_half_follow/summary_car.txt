@@ -1,0 +1,6 @@
+==========================tracking evaluation summary===========================
+True Positives                                                             10480
+Ignored True Positives                                                         0
+False Positives                                                              342
+False Negatives                                                             1887
+ID-switches                                                                   55
