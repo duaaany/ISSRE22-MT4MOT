@@ -1,4 +1,14 @@
-# **Replication Package for the Paper "Towards the Robustness of Multiple Object Tracking Systems"**
+# **Replication Package for the Paper "[Towards the Robustness of Multiple Object Tracking Systems](https://ieeexplore.ieee.org/document/9978989)"**
+
+```bash
+@INPROCEEDINGS{XieTowards2022,
+  author={Xie, Xiaoyuan and Duan, Ying and Chen, Songqiang and Xuan, Jifeng},
+  booktitle={2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE)}, 
+  title={Towards the Robustness of Multiple Object Tracking Systems}, 
+  year={2022},
+  pages={402-413},
+  doi={10.1109/ISSRE55969.2022.00046}}
+```
 
 This is the replication package for the ISSRE 2022 Research Track paper "*Towards the Robustness of Multiple Object Tracking Systems*". 
 
